@@ -1,24 +1,152 @@
-<h1 align="center">Hi 👋, I'm Agniv Paira</h1>
-<h3 align="center">Passionate about creating user-friendly designs and insightful dashboards and also a developer as well</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anizxx&label=Profile%20views&color=0e75b6&style=flat" alt="anizxx" /> </p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          ██████╗  █████╗ ████████╗ █████╗                   ║
+║          ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗                  ║
+║          ██║  ██║███████║   ██║   ███████║                   ║
+║          ██║  ██║██╔══██║   ██║   ██╔══██║                   ║
+║          ██████╔╝██║  ██║   ██║   ██║  ██║                   ║
+║          ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 🌱 I’m currently learning **Frameworks, System Designing,**
+# Hi 👋, I'm **Agniv Paira**
 
-- 💬 Ask me about **Power BI,Figma(UI/UX Design),Python(Basics),Data Analysis,HTML,CSS**
+### `Data Analytics Engineer` · `UI/UX Designer` · `Developer`
 
-- 📫 How to reach me **pairaagniv@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Actionable+Insights;Designing+Experiences+That+Speak+to+Users;Building+Dashboards+That+Tell+Stories;Analytics+%2B+Design+%3D+Impact" alt="Typing SVG" />
 
-- 📄 Know about my experiences [https://resume-agniv.tiiny.site/](https://resume-agniv.tiiny.site/)
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/agniv-paira-0873632a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agniv-paira-0873632a7/" height="30" width="40" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=anizxx&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/pairaagniv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pairaagniv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agniv-paira)
+[![Resume](https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume-agniv.tiiny.site/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anizxx&show_icons=true&locale=en&layout=compact" alt="anizxx" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anizxx&show_icons=true&locale=en" alt="anizxx" /></p>
+## 🧠 About Me
+
+```python
+agniv = {
+    "role"       : ["Data Analytics Engineer", "UI/UX Designer", "Developer"],
+    "focus"      : ["Business Intelligence", "Data Pipelines", "User Research", "Dashboards"],
+    "philosophy" : "Data tells stories — I make sure they're worth reading.",
+    "currently"  : "Learning Frameworks & System Design",
+    "contact"    : "pairaagniv@gmail.com"
+}
+```
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 What I Do
+
+- 🔭 **Data Analytics Engineering** — Transforming messy data into clean, actionable intelligence
+- 🎨 **UI/UX Design** — Crafting intuitive, research-backed user experiences in Figma
+- 📈 **Dashboard Development** — Building insightful Power BI & data visualizations
+- 🐍 **Python & SQL** — Data wrangling, EDA, and analytics pipelines
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Learning
+
+- 🏗️ System Design Patterns
+- ⚡ Modern JS Frameworks
+- 📐 Advanced Data Modeling
+- 🤖 ML for Analytics
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 📊 Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🎨 Design & Frontend
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### ⚙️ Dev & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anizxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anizxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anizxx&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [pairaagniv@gmail.com](mailto:pairaagniv@gmail.com) |
+| 💼 **LinkedIn** | [Connect with me](https://linkedin.com/in/agniv-paira) |
+| 📄 **Resume** | [View my experience](https://resume-agniv.tiiny.site/) |
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agniv-paira)
+[![Email Me](https://img.shields.io/badge/Email_Me_Directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pairaagniv@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  "Without data, you're just another person with an opinion" │
+│                                      — W. Edwards Deming    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Snake animation](https://github.com/anizxx/anizxx/blob/output/github-contribution-grid-snake-dark.svg)
+
+⭐ **If you like my work, consider giving my repos a star!** ⭐
+
+</div>
