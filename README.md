@@ -1,23 +1,30 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          ██████╗  █████╗ ████████╗ █████╗                   ║
-║          ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗                  ║
-║          ██║  ██║███████║   ██║   ███████║                   ║
-║          ██║  ██║██╔══██║   ██║   ██╔══██║                   ║
-║          ██████╔╝██║  ██║   ██║   ██║  ██║                   ║
-║          ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  ██████╗  █████╗ ████████╗ █████╗     ███████╗███╗   ██╗ ██████╗           ║
+║  ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝████╗  ██║██╔════╝           ║
+║  ██║  ██║███████║   ██║   ███████║    █████╗  ██╔██╗ ██║██║  ███╗          ║
+║  ██║  ██║██╔══██║   ██║   ██╔══██║    ██╔══╝  ██║╚██╗██║██║   ██║          ║
+║  ██████╔╝██║  ██║   ██║   ██║  ██║    ███████╗██║ ╚████║╚██████╔╝          ║
+║  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝           ║
+║                                                                              ║
+║  ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗           ║
+║  ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗          ║
+║  █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝          ║
+║  ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗          ║
+║  ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║          ║
+║  ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # Hi 👋, I'm **Agniv Paira**
 
 ### `Data Analytics Engineer` · `UI/UX Designer` · `Developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Actionable+Insights;Designing+Experiences+That+Speak+to+Users;Building+Dashboards+That+Tell+Stories;Analytics+%2B+Design+%3D+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights;Designing+Experiences+That+Speak+to+Users;Building+Dashboards+That+Tell+Stories;Analytics+%2B+Design+%3D+Impact" alt="Typing SVG" />
 
 <br>
 
@@ -38,6 +45,7 @@ agniv = {
     "focus"      : ["Business Intelligence", "Data Pipelines", "User Research", "Dashboards"],
     "philosophy" : "Data tells stories — I make sure they're worth reading.",
     "currently"  : "Learning Frameworks & System Design",
+    "open_to"    : ["Collaborations", "Data Projects", "Design Contracts"],
     "contact"    : "pairaagniv@gmail.com"
 }
 ```
@@ -109,12 +117,6 @@ agniv = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anizxx&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 ## 🤝 Connect With Me
@@ -139,13 +141,11 @@ agniv = {
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  "Without data, you're just another person with an opinion" │
-│                                      — W. Edwards Deming    │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│  "Without data, you're just another person with an opinion."             │
+│                                               — W. Edwards Deming        │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
-
-![Snake animation](https://github.com/anizxx/anizxx/blob/output/github-contribution-grid-snake-dark.svg)
 
 ⭐ **If you like my work, consider giving my repos a star!** ⭐
 
