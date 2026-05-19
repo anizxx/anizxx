@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚══════╝╚═╝  ╚══╝ ╚═════╝ ╚═╝╚═╝  ╚══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-# Hi 👋, I'm **Agniv Paira**
+# Hi , I'm **Agniv Paira**
 
 ### `Data Analytics Engineer` · `UI/UX Designer` · `Developer`
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 agniv = {
@@ -45,22 +45,22 @@ agniv = {
 <tr>
 <td width="50%">
 
-### 📊 What I Do
+###  What I Do
 
-- 🔭 **Data Analytics Engineering** — Transforming messy data into clean, actionable intelligence
-- 🎨 **UI/UX Design** — Crafting intuitive, research-backed user experiences in Figma
-- 📈 **Dashboard Development** — Building insightful Power BI & data visualizations
-- 🐍 **Python & SQL** — Data wrangling, EDA, and analytics pipelines
+-  **Data Analytics Engineering** — Transforming messy data into clean, actionable intelligence
+-  **UI/UX Design** — Crafting intuitive, research-backed user experiences in Figma
+-  **Dashboard Development** — Building insightful Power BI & data visualizations
+-  **Python & SQL** — Data wrangling, EDA, and analytics pipelines
 
 </td>
 <td width="50%">
 
-### 🌱 Currently Learning
+###  Currently Learning
 
-- 🏗️ System Design Patterns
-- ⚡ Modern JS Frameworks
-- 📐 Advanced Data Modeling
-- 🤖 ML for Analytics
+-  System Design Patterns
+-  Modern JS Frameworks
+-  Advanced Data Modeling
+-  ML for Analytics
 
 </td>
 </tr>
@@ -68,25 +68,25 @@ agniv = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
-### 📊 Data & Analytics
+###  Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🎨 Design & Frontend
+###  Design & Frontend
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### ⚙️ Dev & Tools
+###  Dev & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -96,27 +96,16 @@ agniv = {
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anizxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anizxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [pairaagniv@gmail.com](mailto:pairaagniv@gmail.com) |
-| 💼 **LinkedIn** | [Connect with me](https://linkedin.com/in/agniv-paira) |
-| 📄 **Resume** | [View my experience](https://resume-agniv.tiiny.site/) |
+|  **Email** | [pairaagniv@gmail.com](mailto:pairaagniv@gmail.com) |
+|  **LinkedIn** | [Connect with me](https://linkedin.com/in/agniv-paira) |
+|  **Resume** | [View my experience](https://resume-agniv.tiiny.site/) |
 
 <br>
 
